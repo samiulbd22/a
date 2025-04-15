@@ -146,8 +146,8 @@ const members = {
         name:"Abdul Alim",
         join:"new",
         // pre-previous month list
-        post_payable        :0,
-        previous_paid       :0,
+        post_payable        :2800,
+        previous_paid       :1500,
         previous_dining_cost:0,
         payment             :undefined,
         // running month
@@ -224,7 +224,7 @@ const members = {
     },
     "01921567438":{
         name:"Rabbul Hossain",
-        
+        join:"new",
         // pre-previous month list
         post_payable        :3500,
         previous_paid       :3500,
